@@ -1,6 +1,6 @@
 ### Hi there
 - ⭕️ Age: 18 years
-- 🤹 Skills: Java development ☕, Python development 🐍, Android development 🤖 (Java), Firebase 🔥, Mongo Db 🍃.
+- 🤹 Skills: Java development ☕, Python development 🐍, Android development 🤖 (Java), Mongo Db 🍃.
 - 🔨 I’m currently working on: Motion (app)
 - 🌱 I’m currently learning: Java for Android development
 - 💬 Ask me about all my projects
